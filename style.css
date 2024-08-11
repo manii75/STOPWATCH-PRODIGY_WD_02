@@ -134,7 +134,7 @@ h1 span{
         
     
          background-image: url(bg.jpg);
-        background-position:cover;
+        background-position:center;
         background-size: cover;
     }
     .txt {
