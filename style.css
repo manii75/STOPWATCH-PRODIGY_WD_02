@@ -131,9 +131,9 @@ h1 span{
         align-items: start;
         width: 100%;
         height: 400px;
-        background-color: black;
+        
     
-        background-image: url(arrangement-black-friday-clock-with-copy-space.jpg);
+         background-image: url(bg.jpg);
         background-position:cover;
         background-size: cover;
     }
